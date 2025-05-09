@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Hi, I’m Wai Yan Phyoe Oo<br>🎓 Computer Science Student @ Edinburgh Napier University | Specializing in Network Engineering<br>💼 System & Cloud Engineer | Dedicated to delivering secure, scalable IT infrastructure and automation solutions<br><br>🛠️ Technical Focus<br>Cloud & DevOps: CI/CD pipelines, cloud-native deployments (AWS, GCP), Docker, Kubernetes<br><br>Infrastructure: Linux server administration, Nginx, Gunicorn, MySQL, SSL/TLS<br><br>Networking: Enterprise-grade network security, CCTV/WiFi infrastructure, automation & optimization<br><br>🌱 Currently Exploring<br>Advanced Kubernetes orchestration techniques<br><br>DevSecOps methodologies and cloud automation workflows<br><br>Scalable and secure enterprise network architectures<br><br>🤝 Open to Collaborations On<br>Cloud infrastructure automation (Terraform, Ansible)<br><br>Scalable microservices architecture (Docker, Kubernetes)<br><br>Optimizing network infrastructure for performance and security<br><br>💬 Let’s Talk About<br>Linux server setups, CI/CD pipelines, reverse proxies (Nginx), cloud deployment strategies, or CCTV/WiFi solutions.<br><br>⚡ Philosophy<br>“Create Value, Build Reliability” — Whether through code, infrastructure, or network systems, I strive to deliver solutions that are secure, efficient, and dependable.
+👋 I'm **Wai Yan Phyoe Oo**, a Computer Science student at **Edinburgh Napier University**, specializing in **Network Engineering** and working as a **System & Cloud Engineer**. I focus on building secure, scalable infrastructure using tools like **Docker**, **Kubernetes**, **CI/CD**, and **cloud platforms** (AWS/GCP). I'm skilled in **Linux server administration**, **Nginx**, **Gunicorn**, **MySQL**, and **enterprise networking** including **CCTV/WiFi systems**.
+
+🌱 I'm currently exploring **Kubernetes orchestration**, **DevSecOps**, and **cloud automation**.<br> 
+🤝 Open to collaboration on **cloud infrastructure**, **microservices**, and **network optimization**.<br> 
+💬 Let's talk about servers, deployments, and scalable infrastructure.<br> 
+⚡ *“Create Value, Build Reliability”* is the principle I work by.
+
+---
+
 
 
 ## 🌐 Socials:
